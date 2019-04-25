@@ -1,0 +1,15 @@
+D:\_learning\Practice\Practice\bin\Debug\Practice.exe.config
+D:\_learning\Practice\Practice\bin\Debug\Practice.exe
+D:\_learning\Practice\Practice\bin\Debug\Practice.pdb
+D:\_learning\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+D:\_learning\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\_learning\Practice\Practice\obj\Debug\Practice.exe
+D:\_learning\Practice\Practice\obj\Debug\Practice.pdb
+C:\_Drive\practice\practicecs\Practice\Practice\bin\Debug\Practice.exe.config
+C:\_Drive\practice\practicecs\Practice\Practice\bin\Debug\Practice.exe
+C:\_Drive\practice\practicecs\Practice\Practice\bin\Debug\Practice.pdb
+C:\_Drive\practice\practicecs\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\_Drive\practice\practicecs\Practice\Practice\obj\Debug\Practice.exe
+C:\_Drive\practice\practicecs\Practice\Practice\obj\Debug\Practice.pdb
+C:\_Drive\practice\practicecs\Practice\Practice\bin\Debug\Practice.exe.CodeAnalysisLog.xml
+C:\_Drive\practice\practicecs\Practice\Practice\bin\Debug\Practice.exe.lastcodeanalysissucceeded
